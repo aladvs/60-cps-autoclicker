@@ -1,0 +1,1 @@
+# 60-cps-autoclicker
