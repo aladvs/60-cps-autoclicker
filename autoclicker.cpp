@@ -54,7 +54,7 @@ void autoclick() {
         LeftClick();
         Sleep(5);
     } while (IsFinished == 0);
-    system("start "" /min C:\\Users\\CPN52\\source\\repos\\autoclicker\\Release\\autoclicker.exe");
+    system("start "" /min C:\\Program Files");
     exit(0);
 };
 // Forward declaration of the MouseMove function
